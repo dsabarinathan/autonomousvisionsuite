@@ -1,7 +1,12 @@
 # Autonomous Vision Suite 🚗👁️
 
 
-Real-time driver monitoring and road perception API for autonomous vehicles using YOLOv11-based models.
+Real-time driver monitoring and road perception API for autonomous vehicles using deeplearning models.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dsabarinathan/autonomousvisionsuite/main/assets/logo.png" alt="Autonomous Vision Suite Logo" width="400"/>
+</p>
+
 
 ## Features
 - **Driver Monitoring**  
